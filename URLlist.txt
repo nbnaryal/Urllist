@@ -1,7 +1,7 @@
-*.hxxps://telegram.org.security.ohsxy.com/?access=true&check=security-check.telegram.org.ohsxy.com 
-*.Telegram.org.security.ohsxy.com
-*.ohsxy.com 
-*.telsec.org
+hxxps://telegram.org.security.ohsxy.com/?access=true&check=security-check.telegram.org.ohsxy.com 
+Telegram.org.security.ohsxy.com
+ohsxy.com 
+telsec.org
 *.military-ukraine.site
 *.hxxps://military-ukraine.site/Necessary_military_assistance.rar
 *.hxxp://military-ukraine.site/Assistance.rar
